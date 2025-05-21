@@ -22,3 +22,5 @@ int minimumCardPickup(vector<int> &cards)
     }
     return ans == INT_MAX ? -1 : ans;
 }
+
+//INFO: Testing git working 
