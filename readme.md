@@ -1,0 +1,1 @@
+This folder contains the question from a leetcode contest.
